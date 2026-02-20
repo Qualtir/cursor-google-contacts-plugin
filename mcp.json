@@ -1,0 +1,6 @@
+{
+  "google-contacts": {
+    "type": "http",
+    "url": "https://api.gpt.space/servers/google-contacts/mcp"
+  }
+}
